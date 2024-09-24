@@ -58,10 +58,6 @@ Follow these steps to set up the project locally:
 2. The form provides feedback if the passwords do not match or other fields contain invalid data.
 3. A background image and an external logo enhance the visual appeal of the form.
 
-### Example:
-Here is a screenshot of the form (replace with a real screenshot):
-![Form Example](path/to/screenshot.png)
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/irfanisevic/validation-form-project/issues).
